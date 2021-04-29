@@ -26,3 +26,7 @@ I am a member of [6FR13NDZ](https://www.hackthebox.eu/teams/profile/1366)
 <code><img height="40" src="https://emojis.slackmojis.com/emojis/images/1519294713/3574/android.png?1519294713"></code>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancollins-dev&theme=chartreuse-dark&show_icons=true)
+
+<a href="https://ryancollins.dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryancollins-dev&&hide=cmake&langs_count=4&line_height=35&theme=chartreuse-dark" />
+</a>

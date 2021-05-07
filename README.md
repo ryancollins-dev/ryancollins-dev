@@ -31,9 +31,11 @@ I am a member of [6FR13NDZ](https://www.hackthebox.eu/teams/profile/1366)
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"></code>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancollins-dev&theme=chartreuse-dark&show_icons=true)
 

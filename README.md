@@ -21,7 +21,8 @@ I am a member of [6FR13NDZ](https://www.hackthebox.eu/teams/profile/1366)
 ## Languages and Tools
 
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="40" src="https://emojis.slackmojis.com/emojis/images/1598512721/10314/c-plus-plus-logo.png?1598512721"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"></code>
 <code><img height="40" src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488"></code>

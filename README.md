@@ -6,17 +6,21 @@
 
 Checkout my website at [https://ryancollins.dev](https://ryancollins.dev)
 
-I am a network engineering graduate and I have been tinkering with computers since [Commodore 128](https://en.wikipedia.org/wiki/Commodore_128).
+I’m a network engineering graduate that has tinkered with computers since [Commodore 128](https://en.wikipedia.org/wiki/Commodore_128).
 
-My interests include cyber security, malware development, investigative research, policy development and threat assessments.
+Computer engineer with 30+ years experience in hardware and software engineering. I have an extensive background working with Windows and Linux operating systems.
 
-I’m also interested in programming, reverse engineering, forensics and malware analysis.
+My interests also include cybersecurity, programming, reverse engineering, malware analysis and forensics.
+
+Additionally I’m interested in malware development, OSINT & threat assessments.
+
+I also enjoy playing online CTF’s, and I love to bake. I am also a welder and mechanic. 
 
 I am a member of [6FR13NDZ](https://www.hackthebox.eu/teams/profile/1366)
 
 ## Languages and Tools
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="40" src="https://emojis.slackmojis.com/emojis/images/1598512721/10314/c-plus-plus-logo.png?1598512721"></code>
 <code><img height="40" src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>

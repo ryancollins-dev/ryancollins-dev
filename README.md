@@ -23,12 +23,13 @@ I am a member of [6FR13NDZ](https://www.hackthebox.eu/teams/profile/1366)
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"></code>
-<code><img height="40" src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488"></code>
-<code><img height="40" src="https://emojis.slackmojis.com/emojis/images/1593980850/9611/linux.png?1593980850"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" src="https://emojis.slackmojis.com/emojis/images/1519294713/3574/android.png?1519294713"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"></code>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancollins-dev&theme=chartreuse-dark&show_icons=true)
 

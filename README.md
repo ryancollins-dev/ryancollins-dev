@@ -24,6 +24,7 @@ I am a member of [6FR13NDZ](https://www.hackthebox.eu/teams/profile/1366)
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
@@ -36,6 +37,7 @@ I am a member of [6FR13NDZ](https://www.hackthebox.eu/teams/profile/1366)
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancollins-dev&theme=chartreuse-dark&show_icons=true)
 

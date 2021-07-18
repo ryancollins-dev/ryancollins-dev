@@ -19,6 +19,7 @@ I graduated Network engineering Magna Cum laude in 2020 and I am currently enrol
 
 ### Languages and Tools
 
+<article>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
@@ -52,9 +53,8 @@ I graduated Network engineering Magna Cum laude in 2020 and I am currently enrol
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"></code>
+</article><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancollins-dev&theme=chartreuse-dark&show_icons=true)
 
-<a href="https://ryancollins.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryancollins-dev&&hide=cmake&langs_count=4&line_height=35&theme=chartreuse-dark" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancollins-dev&langs_count=8&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)

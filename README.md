@@ -19,7 +19,7 @@ I graduated Network engineering Magna Cum laude in 2020 and I am currently enrol
 
 ### Languages and Tools
 
-<article>
+<section>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
@@ -53,7 +53,8 @@ I graduated Network engineering Magna Cum laude in 2020 and I am currently enrol
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"></code>
-</article><br>
+</section>
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancollins-dev&theme=chartreuse-dark&show_icons=true)
 

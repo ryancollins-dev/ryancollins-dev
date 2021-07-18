@@ -3,10 +3,18 @@
 <a href="https://twitter.com/ryancollins_dev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/ryancollins-dev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
-Checkout my website at [https://ryancollins.dev](https://ryancollins.dev)
+Checkout my website at <https://ryancollins.dev><hr>
 
 ### Hi I’m Ryan
-Software engineer and network engineering graduate. I’ve been tinkering with computers since Commodore 128. 30+ years experience in hardware and software engineering. I have an extensive background with Windows and Linux operating systems. I design and build computers, workstations and servers. My interests include information security, programming, malware analysis and DFIR. I am also interested in malware development, OSINT and threat hunting. I also enjoy playing online CTF’s. I love to bake and I am also a Professional welder and mechanic.
+
+A software & network engineer tinkering with computers since Commodore 64
+
+I have over 30 years experience in hardware design/build, and an extensive background with Windows and GNU/Linux-based operating systems. I design and build custom computers and workstations as well as provide software and network engineering services. I also work in cybersecurity, including malware analysis & development, DFIR. I enjoy playing online CTF’s and contributing to the cybersecurity community. My interests also include baking, welding and automotive mechanics. In my spare time I enjoy cybersecurity study and spend most of my time deep in a great book.
+
+## Current
+
+I graduated Network engineering Magna Cum laude in 2020 and I am currently enrolled in my second degree for software engineering. I have been teaching myself pent-testing & cybersecurity for the past four and a half years, and I’m still learning every day. Currently I am building my business as a freelance pen-tester as well as working on my own personal educational growth.
+
 #
 
 ### Languages and Tools

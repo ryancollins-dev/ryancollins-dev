@@ -56,6 +56,6 @@ I graduated Network engineering Magna Cum laude in 2020 and I am currently enrol
 </section>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancollins-dev&theme=chartreuse-dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancollins-dev&hide=contribs,prs&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancollins-dev&langs_count=8&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancollins-dev&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
